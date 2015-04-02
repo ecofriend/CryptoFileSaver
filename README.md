@@ -17,4 +17,6 @@ When copying unencrypted files from a Cryptwall affected drive, my AV software d
 infections that remained on the drive even though cryptowall (and variants) supposedly remove themselves after encrypting 
 your data.
 
+You can compile the source using the freely available Visual Studio 2013 Community Edition (https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx). 
+
 Feel free to modify the program as you see fit.
