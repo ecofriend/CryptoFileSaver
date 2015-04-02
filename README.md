@@ -4,7 +4,7 @@ A program to copy files that were not affected by cryptowall variants.
 
 #### PROVIDED AS IS, WITHOUT SUPPORT OR WARRANTY
 
-I created this program for our small IT company where a few of our clients. It was designed to work under specific conditions 
+I created this program for our small IT company where a few of our clients were hit by the cryptowall ransomware. It was designed to work under specific conditions 
 but I am making it available here in case it proves useful to someone else.
 
 Please refer to http://www.bleepingcomputer.com/virus-removal/cryptowall-ransomware-information for additional information.
